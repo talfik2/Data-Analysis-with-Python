@@ -5,4 +5,4 @@ Major Crimes: This category is consistent with those regularly and publicly repo
 Other Crimes: This category is composed of many crimes and incidents that range in severity. It includes reports of incidents such as arson/explosion, misdemeanor assault, criminal possession or sale of a controlled substance, sale of marijuana, criminal mischief, petit larceny, reckless endangerment, sex offenses (not including rape, which is included in the Major Crimes), and weapons possession.
 Non-Criminal Incidents: This category includes actions which are not classified as crimes but are nevertheless disruptive to the school environment. It includes disorderly conduct, harassment, loitering, possession of marijuana, dangerous instruments and trespass.
 NYPD and NYC Department of Education are stored this crime data as annualy school safety reports and published on https://www.data.gov/ .
-In this Data Analysis exercise, I concatenated the School Safety Reports of the 2015 and 2016, and I will try to Analyse this data.
+In this Data Analysis exercise, I concatenated the School Safety Reports of the 2015 and 2016, and I analysed this data.
